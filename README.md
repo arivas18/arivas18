@@ -1,5 +1,5 @@
 - # 👋 Hi, I’m Adrian Rivas.
-- 🎓 I graduated from **Stanford University** in 2025 with a **B.S.** in *Symbolic Systems* with a concentration in *Decision-Making and Rationality*. 
+- 🎓 I graduated from **Stanford University** in 2025 with a **B.S.** in *Symbolic Systems* with a concentration in Decision-Making & Rationality. 
 - 👀 I’m interested in artificial intelligence, entrepreneurship, philosophy, and photography.
 - 🌱 I’m currently learning containerization, quantitative finance, and new ML techniques and technologies.
 - 🤝 I’m looking to collaborate on tech startups, non-profit organizations, and other business endeavors. 
