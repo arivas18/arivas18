@@ -1,5 +1,10 @@
-## Hi there 👋
-
+- # 👋 Hi, I’m Adrian Rivas.
+- 🎓 I graduated from Stanford University in 2025 with a B.S. in Symbolic Systems with a concentration in Decision-Making and Rationality. 
+- 👀 I’m interested in artificial intelligence, entrepreneurship, philosophy, and photography.
+- 🌱 I’m currently learning containerization, quantitative finance, and new ML techniques and technologies.
+- 🤝 I’m looking to collaborate on tech startups, non-profit organizations, and other business endeavors. 
+- 📫 How to reach me: <a href="mailto:arivas18@outlook.com">E-mail (arivas18@outlook.com) </a> | [LinkedIn](https://www.linkedin.com/in/arivas14)
+- 😄 Pronouns: He/Him/His
 <!--
 **arivas18/arivas18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
